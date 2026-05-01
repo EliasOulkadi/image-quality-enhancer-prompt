@@ -23,7 +23,7 @@
 
 ---
 
-## 📋 What is this?
+## What is this?
 
 A carefully researched and engineered prompt that forces AI image generators to **enhance image quality** (resolution, sharpness, noise reduction) while preserving **maximum content fidelity** to the original.
 
@@ -50,7 +50,7 @@ This prompt minimizes these issues through careful engineering, but cannot elimi
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### ChatGPT
 
