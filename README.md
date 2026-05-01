@@ -4,7 +4,7 @@
 > Compatible with **ChatGPT (GPT-4o)**, **Nano Banana**, and **Nano Banana Pro**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-Plus%2FPro_Only-74aa9c?logo=openai)](https://chat.openai.com)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai)](https://chat.openai.com)
 [![Nano Banana](https://img.shields.io/badge/Nano_Banana-Compatible-fbbc04?logo=google)](https://codewords.agemo.ai)
 
 ---
