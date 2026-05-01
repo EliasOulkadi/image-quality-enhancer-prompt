@@ -1,0 +1,115 @@
+══════════════════════════════════════════════════════════════
+  SUPER PROMPT — IMAGE QUALITY ENHANCER (UNIVERSAL)
+  Compatible: ChatGPT (GPT-4o) · Nano Banana · Nano Banana Pro
+══════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️  ABSOLUTE PRESERVATION MANDATE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CARDINAL RULE: The attached image is the ONLY reference.
+Reproduce this image IDENTICALLY — same content, composition,
+colors, subjects, art style, perspective, and lighting.
+ZERO creative alterations. ZERO reinterpretations. ZERO
+additions or removals.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯  TASK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Enhance the technical quality of this image WITHOUT modifying
+its content. The output must be visually IDENTICAL to the
+original but with noticeably superior quality.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧  TECHNICAL ENHANCEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Apply ONLY these technical quality enhancements:
+
+1. RESOLUTION:
+   → Upscale to maximum possible resolution (4K/UHD)
+   → Maintain the EXACT original aspect ratio
+   → No cropping, no reframing
+
+2. SHARPNESS & DETAIL:
+   → Enhance edge and line definition
+   → Increase clarity of textures and fine details
+   → Refine all visual elements
+
+3. NOISE REDUCTION:
+   → Remove compression artifacts (JPEG, etc.)
+   → Reduce color banding in gradients
+   → Remove edge pixelation
+   → Smooth digital noise WITHOUT losing detail
+
+4. COLOR & CONTRAST:
+   → Subtly improve contrast depth
+   → Maintain the EXACT color palette
+   → Improve gradient transitions
+   → Preserve shadows and lighting as-is
+
+5. OVERALL CLARITY:
+   → Remove overall blurriness
+   → Sharp, clean image ("crisp")
+   → Improve visual readability of every element
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚫  NEGATIVE LIST — DO NOT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FORBIDDEN:
+✗ DO NOT change the art style (if anime, keep anime;
+  if photo, keep photo; if painting, keep painting)
+✗ DO NOT add realism to illustrations or stylize photos
+✗ DO NOT modify facial expressions, poses, or gestures
+✗ DO NOT change, add, or remove any object or subject
+✗ DO NOT alter the perspective or camera angle
+✗ DO NOT change colors, hues, or the color palette
+✗ DO NOT add new elements (clouds, stars, objects, etc.)
+✗ DO NOT add optical effects (bokeh, lens flare, bloom, vignette)
+✗ DO NOT change proportions of any element
+✗ DO NOT add text, watermarks, or signatures
+✗ DO NOT convert flat colors into 3D gradients
+✗ DO NOT soften drawn lines (keep original linework)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅  VERIFICATION CHECKLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Before generating, internally verify:
+
+☑ Are all subjects/objects IDENTICAL in shape and position?
+☑ Are the colors EXACTLY the same?
+☑ Has the background NOT changed at all?
+☑ Are facial expressions IDENTICAL?
+☑ Is the perspective/angle the SAME?
+☑ Is the art style INTACT?
+☑ Have no non-existent elements been added?
+☑ Is the ONLY difference the quality/resolution?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Generate ONLY the enhanced image. No text. No explanations.
+Just the upscaled image with absolute fidelity to the original.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 USAGE NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+→ ChatGPT (Plus/Pro only): Attach the image BEFORE pasting
+  this prompt. Free ChatGPT cannot generate images.
+
+→ Nano Banana / Nano Banana Pro: Upload the image in the
+  same message with this prompt. Use the "Peel Banana"
+  browser extension to remove the watermark from outputs.
+
+→ If the result changes something, reply:
+  "The [element] changed. Fix it to be IDENTICAL to the original."
+
+→ This prompt is universal: works with photos, illustrations,
+  anime, manga, digital art, screenshots, etc.
+
+→ For best results with TRUE 4K quality, use the dedicated
+  upscaling pipeline described in the README (Upscayl +
+  sharpening + HDR post-processing).
