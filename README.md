@@ -29,14 +29,14 @@ A carefully researched and engineered prompt that forces AI image generators to 
 
 ### Key Features
 
-- 🔒 **Preservation-first architecture** — fidelity mandate placed before enhancement instructions (AI processes sequentially)
-- 🎨 **Style-agnostic** — works with photos, anime, manga, digital art, illustrations, screenshots
-- 🚫 **13+ explicit negative constraints** — blocks common AI modification patterns (style transfer, westernization, detail hallucination)
-- ✅ **Self-verification checklist** — forces the model to compare output vs input before generating
+- **Preservation-first architecture** — fidelity mandate placed before enhancement instructions (AI processes sequentially)
+- **Style-agnostic** — works with photos, anime, manga, digital art, illustrations, screenshots
+- **13+ explicit negative constraints** — blocks common AI modification patterns (style transfer, westernization, detail hallucination)
+- ✅**Self-verification checklist** — forces the model to compare output vs input before generating
 
 ---
 
-## ⚠️ Honest Expectations
+## Honest Expectations
 
 **AI image generators do NOT truly upscale images.** They *regenerate* the image from scratch, which means:
 
@@ -71,7 +71,7 @@ This prompt minimizes these issues through careful engineering, but cannot elimi
 
 ---
 
-## 🔥 Ultimate 4K Pipeline (Recommended for Best Results)
+## Ultimate 4K Pipeline (Recommended for Best Results)
 
 For true 4K, pixel-perfect fidelity, and HDR-like look — use this 3-step pipeline with free tools instead of (or on top of) AI generation:
 
@@ -117,7 +117,7 @@ For true 4K, pixel-perfect fidelity, and HDR-like look — use this 3-step pipel
 
 ---
 
-## 🖼️ Works With Any Image Type
+## Works With Any Image Type
 
 This prompt is designed to be universal. Expected results by image type:
 
@@ -131,7 +131,7 @@ This prompt is designed to be universal. Expected results by image type:
 
 ---
 
-## 🧠 Research & Methodology
+## Research & Methodology
 
 This prompt was engineered based on research from:
 
@@ -168,7 +168,7 @@ pixel-perfect-prompt/
 
 ---
 
-## 📜 License
+## License
 
 MIT License — use freely, modify, share.
 
