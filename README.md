@@ -123,11 +123,11 @@ This prompt is designed to be universal. Expected results by image type:
 
 | Image Type | AI Prompt Result | Upscayl Pipeline Result |
 |------------|-----------------|------------------------|
-| 🎌 **Anime / Manga** | Good (minor color shifts possible) | Excellent (use `anime_6B` model) |
-| 📷 **Photos** | Good (may soften or sharpen details) | Excellent (use `x4plus` model) |
-| 🎨 **Digital Art** | Good (may reinterpret textures) | Excellent |
-| 🖥️ **Screenshots** | Moderate (text may blur) | Very good |
-| 🖌️ **Paintings** | Moderate (may add unwanted detail) | Good |
+| **Anime / Manga** | Good (minor color shifts possible) | Excellent (use `anime_6B` model) |
+| **Photos** | Good (may soften or sharpen details) | Excellent (use `x4plus` model) |
+| **Digital Art** | Good (may reinterpret textures) | Excellent |
+| **Screenshots** | Moderate (text may blur) | Very good |
+| **Paintings** | Moderate (may add unwanted detail) | Good |
 
 ---
 
