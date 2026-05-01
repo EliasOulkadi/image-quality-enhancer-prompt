@@ -52,9 +52,7 @@ This prompt minimizes these issues through careful engineering, but cannot elimi
 
 ## 🚀 Quick Start
 
-### ChatGPT (GPT-4o)
-
-> ⚠️ **Requires ChatGPT Plus ($20/mo) or Pro.** Free ChatGPT cannot generate images.
+### ChatGPT
 
 1. Open ChatGPT
 2. **Attach your image first**
