@@ -1,7 +1,7 @@
 # 🖼️ Pixel Perfect Prompt — AI Image Quality Enhancer
 
 > **Research-backed prompt engineered for AI image enhancement — upscales quality while preserving maximum content fidelity.**  
-> Compatible with **ChatGPT (GPT-4o Plus/Pro)**, **Nano Banana**, and **Nano Banana Pro**.
+> Compatible with **ChatGPT (GPT-4o)**, **Nano Banana**, and **Nano Banana Pro**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-Plus%2FPro_Only-74aa9c?logo=openai)](https://chat.openai.com)
